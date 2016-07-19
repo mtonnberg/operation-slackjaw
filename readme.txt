@@ -1,4 +1,4 @@
-A simple chatops client written in go for slack and Otter.
+A simple chatops client poc written in go for slack and Otter.
 
 How to set it up:
 
